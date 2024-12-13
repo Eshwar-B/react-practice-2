@@ -10,10 +10,10 @@ function NavigationBar()
         </div>
 
         <ul className="nav-items">
-            <li>Menu</li>
-            <li>Search</li>
-            <li>Contact</li>
-            <li>About Us</li>
+            <li><a href=""> Menu</a></li>
+            <li><a href=""> Search</a></li>
+            <li><a href=""> Contact</a></li>
+            <li><a href=""> About Us</a></li>
         </ul>
         </div>
     </>
