@@ -4,16 +4,18 @@ function NavigationBar()
 {
     return(
     <>
-        <div>
+        <div className='top-section'>
+        <div className='logo'>
              Cloud Kitchen
         </div>
 
-        <ul className="nav-bar">
+        <ul className="nav-items">
             <li>Menu</li>
             <li>Search</li>
             <li>Contact</li>
             <li>About Us</li>
         </ul>
+        </div>
     </>
     )
 }

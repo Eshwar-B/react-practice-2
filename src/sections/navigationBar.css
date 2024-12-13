@@ -1,3 +1,20 @@
-.nav-bar{
+.nav-items{
     list-style-type: none;
+    display: flex;
+    gap: 15px;
+    margin-right: 70px; 
+  
 }
+
+.top-section
+{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-between;
+}
+
+.logo{
+    margin: 20px;
+    padding-left: 10px;
+}
+
